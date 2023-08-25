@@ -24,7 +24,8 @@ The project is divided into four sections:
 4- Fourth, clustering of the customers for three different set/combination of features using unsupervised machine learning technique:
     - standardizing the data
     - usage of unsupervised machine learning models (K-means, DBScan, or AgglomerativeHierarchicalClustering)
-    - optimizing of the models parameters using silhouette coefficient, elbow curve (for K-means), and Davies Bouldin score in order to select the optimal number of clusters (for K-means and AgglomerativeHierarchicalClustering), and eps score and min_smaples (for DBScan)
+    - optimizing of the models parameters using silhouette coefficient, elbow curve (for K-means), Davies Bouldin score, NearestNeighbors (for DBScan), and dendrogram (for AgglomerativeHierarchicalClustering)\
+ in order to select the optimal number of clusters (for K-means and AgglomerativeHierarchicalClustering), and eps score and min_smaples (for DBScan)
     - do the procedure three times using three different set/combination of features:
         - RFM features
         - RFM features with review score
