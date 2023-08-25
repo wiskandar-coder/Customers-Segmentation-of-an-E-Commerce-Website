@@ -1,4 +1,4 @@
-# Customers-segmentation-of-an-e-commerce-Website
+# Customers-Clustering-of-an-E-Commerce-Website
 This project consists of segmentation/clustering of customers base of an e-commerce website based on their purchase behaviors using the RFM (Recency, frequency, and monetary) marketing analysis technique. Additionally, the project provides a timeframe for updating the segmentation.
 
 The project is divided into four sections:
