@@ -1,7 +1,7 @@
 # Customers-Clustering-of-an-E-Commerce-Website
 This project consists of segmentation/clustering of customers base of an e-commerce website based on their purchase behaviors using the RFM (Recency, frequency, and monetary) marketing analysis technique. Additionally, the project provides a timeframe for updating the segmentation.
 
-The project is divided into four sections:
+The project is divided into five sections:
 ~~~
 1- First is the cleaning of the data.
     I started by importing the data from Brazilian E-Commerce Public Dataset by Olist hosted at kaggle website https://www.kaggle.com/olistbr/brazilian-ecommerce. The Data Schema, and the definition of the variables can be found there as well.
