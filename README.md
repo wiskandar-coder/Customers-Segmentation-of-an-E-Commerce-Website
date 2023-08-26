@@ -32,7 +32,7 @@ The project is divided into five sections:
 5- Fifth, performing temporal stability of the clustering using the Adjusted Rand Score in order to give an estimate of updating time for the remodelisation
 ~~~
 
-The first, second, third, and fourth points are covered in the notebook 'Exploration_notebook'.\
+The first, second, and third points are covered in the notebook 'Exploration_notebook'.\
 The fourth point is covered in the notebook 'Tesing_notebook'.\
 The fifth point is covered in the notebook 'Simulation_notebook'.\
 A powerpoint presentation of the project can be shared under request.
